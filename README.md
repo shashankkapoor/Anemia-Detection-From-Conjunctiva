@@ -22,22 +22,22 @@ Clone the repository:
 
 bash
 Copy code
+'''
 git clone https://github.com/your-username/AnemiaDetectionFromConjunctiva.git
+'''
 Navigate to the project directory:
-
-bash
-Copy code
+'''
 cd AnemiaDetectionFromConjunctiva
+'''
+
 Install the required dependencies:
-
-bash
-Copy code
+'''
 pip install -r requirements.txt
+'''
 Run the inference script on your conjunctiva image:
-
-bash
-Copy code
+'''
 python predict.py --image path/to/your/image.jpg
+'''
 Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
@@ -45,8 +45,4 @@ Fork the repository.
 Create a new branch for your feature or bug fix.
 Make your changes and commit them.
 Submit a pull request explaining your changes and their benefits.
-License
-This project is licensed under the MIT License.
-
-Remember to replace placeholders like your-username and customize the sections and content according to your project's specifics. Your README should provide a clear understanding of your project, how to use it, and how others can contribute.
-   
+Peace!!  
