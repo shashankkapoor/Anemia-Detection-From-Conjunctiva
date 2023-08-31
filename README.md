@@ -17,27 +17,25 @@ We used a curated dataset of conjunctiva images collected from various sources. 
 Model Development
 Our approach involves training a deep learning model using state-of-the-art architectures such as Convolutional Neural Networks (CNNs). The model is trained on the preprocessed dataset and fine-tuned to achieve optimal performance in classifying anemia from conjunctiva images.
 
-Usage
+## Usage
 Clone the repository:
 
-bash
-Copy code
-'''
+```
 git clone https://github.com/your-username/AnemiaDetectionFromConjunctiva.git
-'''
+```
 Navigate to the project directory:
-'''
+```
 cd AnemiaDetectionFromConjunctiva
-'''
+```
 
 Install the required dependencies:
-'''
+```
 pip install -r requirements.txt
-'''
+```
 Run the inference script on your conjunctiva image:
-'''
+```
 python predict.py --image path/to/your/image.jpg
-'''
+```
 Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
