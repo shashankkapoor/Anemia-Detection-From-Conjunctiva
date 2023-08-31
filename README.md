@@ -2,6 +2,7 @@
 This repository contains a project focused on classifying anemia using conjunctiva images. The goal of the project is to develop a machine learning model that can accurately detect the presence of anemia based on images of the conjunctiva.
 
 ## Table of Contents
+
 - Project Overview
 - Dataset
 - Model Development
