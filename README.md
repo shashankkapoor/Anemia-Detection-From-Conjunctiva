@@ -9,6 +9,7 @@ This repository contains a project focused on classifying anemia using conjuncti
 - Contributing
 - License
 - Project Overview
+  
 Anemia is a common blood disorder that can often be visually identified by changes in the conjunctiva of the eye. This project aims to leverage machine learning techniques to automate the detection of anemia by analyzing conjunctiva images. The repository contains code and resources related to data preprocessing, model training, and evaluation.
 
 Dataset
