@@ -29,15 +29,13 @@ Navigate to the project directory:
 ```
 cd AnemiaDetectionFromConjunctiva
 ```
+To work with this code you need to first know the path on your system where you saved this colab and dataset.
+'''
+import pickle
+dataset = pickle.load(open('/path/to/dataset/x_final_conjunctiva.pkl', 'rb'))
+labels = pickle.load(open('/path/to/label/y_final_conjunctiva.pkl', 'rb'))
+'''
 
-Install the required dependencies:
-```
-pip install -r requirements.txt
-```
-Run the inference script on your conjunctiva image:
-```
-python predict.py --image path/to/your/image.jpg
-```
 Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
