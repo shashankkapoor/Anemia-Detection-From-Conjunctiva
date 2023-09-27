@@ -30,11 +30,12 @@ Navigate to the project directory:
 cd AnemiaDetectionFromConjunctiva
 ```
 To work with this code you need to first know the path on your system where you saved this colab and dataset.
-'''
+
+```
 import pickle
 dataset = pickle.load(open('/path/to/dataset/x_final_conjunctiva.pkl', 'rb'))
 labels = pickle.load(open('/path/to/label/y_final_conjunctiva.pkl', 'rb'))
-'''
+```
 
 Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
