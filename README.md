@@ -23,11 +23,11 @@ Our approach involves training a deep learning model using state-of-the-art arch
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/AnemiaDetectionFromConjunctiva.git
+git clone https://github.com/shashankkapoor/Anemia-Detection-From-Conjunctiva.git
 ```
 Navigate to the project directory:
 ```
-cd AnemiaDetectionFromConjunctiva
+cd Anemia-Detection-From-Conjunctiva
 ```
 To work with this code you need to first know the path on your system where you saved this colab and dataset.
 
